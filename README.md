@@ -1,6 +1,6 @@
-<h1 align="left">Hi, I'm Filip - TUL student</h1>
-<p>- 🧠 I'm intrested in frontend <p>
-<p>- 📖 I'm currently developing my skills in JavaScript & React <p>
+<h1 align="left">Hi, I'm Filip - TUL second degree student</h1>
+<p>- 🧠 I'm intrested in creating fullstack applications <p>
+<p>- 📖 I'm currently developing my skills in React & Symfony <p>
 <p>- 📫 How to reach me: warchol.filip.00@gmail.com<p>
 
 <h3 align="left">Languages and Tools:</h3>
