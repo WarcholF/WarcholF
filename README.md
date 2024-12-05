@@ -1,9 +1,31 @@
-<h1 align="left">Hi, I'm Filip - TUL second degree student</h1>
-<p>- 🧠 I'm intrested in creating fullstack applications <p>
-<p>- 📖 I'm currently developing my skills in React & Symfony <p>
-<p>- 📫 How to reach me: warchol.filip.00@gmail.com<p>
+# Hi, I'm Filip - TUL Second Degree Student
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+💻 I'm passionate about creating **fullstack applications** and constantly expanding my knowledge in the field of web development.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warcholf&" alt="warcholf" /></p>
+📚 Currently, I am honing my skills in **React** and **Symfony**, while applying them in real-world projects at work.  
+Although I don't frequently publish repositories here, most of my work involves professional projects that showcase my expertise in building scalable, efficient, and user-friendly applications.
+
+---
+
+## 🚀 Skills and Tools
+
+Here are some of the technologies and tools I work with regularly:
+
+- **Frontend:**  
+  ![HTML](https://img.shields.io/badge/-HTML5-orange) ![CSS](https://img.shields.io/badge/-CSS3-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-blue)
+
+- **Backend:**  
+  ![PHP](https://img.shields.io/badge/-PHP-purple) ![Symfony](https://img.shields.io/badge/-Symfony-black) ![Python](https://img.shields.io/badge/-Python-blue)
+
+- **Libraries and Frameworks:**  
+  ![React](https://img.shields.io/badge/-React-blue)
+
+- **Other Tools:**  
+  GraphQL, Git
+
+---
+
+📫 Feel free to reach out via email if you'd like to collaborate or discuss interesting projects:  
+**warchol.filip.00@gmail.com**
+
+🌱 When not working, I'm always eager to learn new technologies and stay updated with industry trends.
